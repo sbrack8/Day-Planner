@@ -1,2 +1,1 @@
-# Day-Planner
- 
+I created a work-day planner using third-party APIs. The application shows a work day starting from 9am to 5pm. Users are able to write notes and tasks and save them according to their schedule. All tasks and notes made during the current hour will display in red, green for the upcoming hour(s), and grey for the hour(s) that has passed. 
